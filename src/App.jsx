@@ -1,11 +1,13 @@
 import React from 'react'
-
+import 'dotenv'
 import './App.css'
 
 import Hero from './components/Hero'
 import Demo from './components/Demo'
 
 const App = () => {
+
+
   return (
     <main>
       <div className='main'>
@@ -13,6 +15,8 @@ const App = () => {
       </div>
       <div className='app'>
         <Hero/>
+       
+
         <Demo/>
       </div>
     </main>
