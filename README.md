@@ -1,4 +1,8 @@
 # AI Text Summarizer
+# 🧠 AI Text Summarizer
+
+🔗 **Live Demo:** [https://mukeshlodhi-04.github.io/Sumz/](https://mukeshlodhi-04.github.io/Sumz/)
+
 
 The **AI Text Summarizer** is a React.js-powered application that uses **Rapid AI** to generate concise and accurate summaries from long pieces of text. It is designed to save time and improve productivity by extracting key points instantly.
 
