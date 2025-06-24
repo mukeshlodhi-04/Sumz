@@ -13,9 +13,10 @@ The **AI Text Summarizer** is a React.js-powered application that uses **Rapid A
 - **Rapid AI**: For natural language processing and text summarization.
 - **HTML/CSS**: For styling and layout.
 
+## 🏠 Homepage
 
-## HOMEPAGE
-(src/assets/Screenshot 2025-06-24 181045.png)
+![Homepage Screenshot](src/assets/Screenshot%202025-06-24%20181045.png)
+
 ## Installation and Setup
 
 Follow these steps to run the app locally:
